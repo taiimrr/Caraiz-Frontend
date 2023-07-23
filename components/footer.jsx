@@ -12,13 +12,13 @@ const footer = () => {
           <div className="grid grid-cols-6 gap-x-7 gap-y-14 pt-24 pb-12 md:grid-cols-12">
             <div className="col-span-3 md:col-span-4">
               {/* <!-- Logo --> */}
-              <Link href="#" className="mb-6 inline-block">
+              {/* <Link href="#" className="mb-6 inline-block">
                 <Image
                   width={130}
                   height={28}
                   src="/images/logo.png"
                   className="max-h-7 dark:hidden"
-                  alt="Xhibiter | NFT Marketplace"
+                  alt="Caraiz"
                 />
               </Link>
 
@@ -30,10 +30,12 @@ const footer = () => {
                   className="hidden max-h-7 dark:block mb-6"
                   alt="Xhibiter | NFT Marketplace"
                 />
-              </Link>
+              </Link> */}
+               <h3 className="text-jacarta-700 font-display mb-6 text-5xl dark:text-white lg:text-3xl xl:text-5xl">
+              Caraiz
+            </h3>
               <p className="dark:text-jacarta-300 mb-12">
-                Create, sell and collect truly rare digital artworks. Powered by
-                blockchain technology.
+              Platform Focused On Providing Added Value To The Resell Of Cars By Offering Traceability And Insight In The Life Of A Car.
               </p>
 
               {/* <!-- Socials --> */}
