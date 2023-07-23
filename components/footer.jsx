@@ -31,11 +31,12 @@ const footer = () => {
                   alt="Xhibiter | NFT Marketplace"
                 />
               </Link> */}
-               <h3 className="text-jacarta-700 font-display mb-6 text-5xl dark:text-white lg:text-3xl xl:text-5xl">
-              Caraiz
-            </h3>
+              <h3 className="text-jacarta-700 font-display mb-6 text-5xl dark:text-white lg:text-3xl xl:text-5xl">
+                Caraiz
+              </h3>
               <p className="dark:text-jacarta-300 mb-12">
-              Platform Focused On Providing Added Value To The Resell Of Cars By Offering Traceability And Insight In The Life Of A Car.
+                Platform Focused On Providing Added Value To The Resell Of Cars
+                By Offering Traceability And Insight In The Life Of A Car.
               </p>
 
               {/* <!-- Socials --> */}
@@ -88,13 +89,13 @@ const footer = () => {
 
           <div className="flex flex-col items-center justify-between space-y-2 py-8 sm:flex-row sm:space-y-0">
             <span className="dark:text-jacarta-400 text-sm">
-              <span>© {new Date().getFullYear()} Xhibiter — Made by</span>
+              <span>© {new Date().getFullYear()} Caraiz — Made by</span>
               <Link
-                href="https://themeforest.net/user/ib-themes"
+                href="https://taiimrr.com"
                 className="hover:text-accent dark:hover:text-white"
               >
                 {" "}
-                ib-themes
+                taiimrr
               </Link>
             </span>
 
