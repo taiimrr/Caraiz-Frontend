@@ -1,8 +1,9 @@
 import React, { useContext, useEffect } from "react";
 import UserContext from "../components/UserContext";
 import ComingSoon from "./home/coming_soon";
+import Home from "./home/home";
 
-export default function Home() {
+export default function Home1() {
   const { scrollRef } = useContext(UserContext);
 
   useEffect(() => {
@@ -18,7 +19,7 @@ export default function Home() {
 
   return (
     <>
-      <ComingSoon />
+      <Home />
     </>
   );
 }

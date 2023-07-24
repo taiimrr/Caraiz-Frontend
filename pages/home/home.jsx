@@ -10,10 +10,10 @@ import Meta from "../../components/Meta";
 import Hero_4 from "../../components/hero/hero_4";
 import CoverflowCarousel from "../../components/carousel/coverflowCarousel";
 
-const Home_4 = () => {
+const Home = () => {
   return (
     <>
-      <Meta title="Home 4" />
+      <Meta title="Home" />
       <Hero_4 />
       <CoverflowCarousel />
       <Top_collection />
@@ -25,4 +25,4 @@ const Home_4 = () => {
   );
 };
 
-export default Home_4;
+export default Home;
