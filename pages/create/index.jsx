@@ -58,7 +58,7 @@ const Create = () => {
 
   return (
     <div>
-      <Meta title="Create || Xhibiter | NFT Marketplace Next.js Template" />
+      <Meta title="Create || Caraiz" />
       {/* <!-- Create --> */}
       <section className="relative py-24">
         <picture className="pointer-events-none absolute inset-0 -z-10 dark:hidden">
