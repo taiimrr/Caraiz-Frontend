@@ -9,9 +9,7 @@ import Image from "next/image";
 
 const Help_center = () => {
   const bgImage = "/images/page-title/knowledge_base_banner.jpg";
-  return (
-  
-  );
+  return <></>;
 };
 
 export default Help_center;
